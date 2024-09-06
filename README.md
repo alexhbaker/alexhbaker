@@ -1,13 +1,13 @@
 ![MasterHead](https://media4.giphy.com/channel_assets/krepling/WPvmeKRl4vUh.gif)
 <h1 align="center">Hi 👋, I'm Alex Baker</h1>
-<h3 align="center">A passionate full-stack developer from Alabama!</h3>
+<h3 align="center">A passionate backend developer from Alabama!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexhbaker&label=Profile%20views&color=0e75b6&style=flat" alt="alexhbaker" /> </p>
 
-- 🔭 I’m currently working on **a portfolio to showcase my projects**
+- 🔭 I’m currently working on **a DND companion app**
 
-- 🌱 I’m currently learning **React, NodeJS and Express**
+- 🌱 I’m currently learning **NodeJS and Express**
 
 - 📫 How to reach me **alexhbaker@gmail.com**
 
